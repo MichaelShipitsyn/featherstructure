@@ -1,2 +1,15 @@
 # featherstructure
-feather structure is 
+
+├── components
+├── shared
+├── api
+├── constants
+├── pages
+├── configs
+├── layout
+├── libs
+├── services ~new
+├── theme
+├── static
+├── src
+├── webpack
