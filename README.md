@@ -1,4 +1,4 @@
-# featherstructure
+# Feather Structure
 
 ├── components  
 ├── shared  
