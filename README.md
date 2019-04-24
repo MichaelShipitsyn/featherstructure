@@ -8,7 +8,7 @@
 ├── configs  
 ├── layout  
 ├── libs  
-├── services 
+├── services  
 ├── theme  
 ├── static  
 ├── src  
