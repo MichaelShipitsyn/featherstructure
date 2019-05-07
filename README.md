@@ -1,15 +1,15 @@
 # Feather Structure
 
-├── api
-├── components
-├── configs
-├── constants
+├── api 
+├── components 
+├── configs 
+├── constants 
 ├── layout  
-├── libs
+├── libs 
 ├── pages          
 ├── shared  
 ├── services 
 ├── static  
-├── src
+├── src 
 ├── theme    
 ├── webpack  
