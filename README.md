@@ -1,7 +1,9 @@
 # Feather Structure
 
+## Схема 
+
 ├── api  
-├── components   
+├── features   
 ├── configs   
 ├── constants   
 ├── layout    
@@ -13,3 +15,24 @@
 ├── src   
 ├── theme      
 ├── webpack    
+
+## Описание
+
+* `api`  
+Директория с функциями делающие ajax-запросы.  
+Организовать эти функции можно по `endpoint` вашего `rest api`  
+Например:  
+```
+├── api  
+    ├── profile
+        ├── index.js // В index.js можно записать все функции взаимодействующие с endpoint.
+                     // Либо создавать под каждую функцию отдельный файл.
+                     
+```
+```js
+// index.js
+
+export function getUserInfo() {}
+
+export function saveUserInfo() {}
+```
