@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="./assets/feather.svg" alt="feather" height="130" />
+</div>
+
 # Feather Structure
 
 ## Схема 
